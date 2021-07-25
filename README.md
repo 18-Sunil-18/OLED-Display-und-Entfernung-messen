@@ -3,6 +3,11 @@ OLED Display SSD1306 128×64 / 128×32 und Entfernung messen
 
 
 
+Link für weitere Infos: https://funduino.de/nr-10-entfernung-messen
+                        https://funduino.de/nr-42-oled-display-ssd1306-128x64-128x32
+
+
+
 Nr.11 Entfernung messen
 Sketch Nr.11: Entfernung messen
 
